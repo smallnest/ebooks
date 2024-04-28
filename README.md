@@ -4,3 +4,4 @@
 3. [Leetcode 算法题解精选(Rust篇)](leetcode-collection-rust.pdf)
 4. [Leetcode 算法题解精选(Go语言篇)](leetcode-collection-go.pdf)
 5. [Go语言编程技巧](gotips.pdf)
+6. [Go Test: 从入门到躺平](go-test.pdf)
